@@ -6,7 +6,9 @@ The game is a standalone, serverless static site: vanilla HTML, CSS, and JavaScr
 
 ## Play
 
-Open [index.html](index.html) directly in a modern browser (double-click it), or serve the folder if you prefer a clean origin:
+Play online at <https://slayyyyer.github.io/word-chomp/>.
+
+Or open [index.html](index.html) directly in a modern browser (double-click it), or serve the folder if you prefer a clean origin:
 
 ```bash
 # If Node.js is installed:
