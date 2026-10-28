@@ -1,0 +1,12 @@
+# Local portable Node and downloaded dictionary sources used by the data builder
+.tools/
+
+# Build/runtime noise
+node_modules/
+*.log
+logs/
+_site/
+
+# OS/editor files
+.DS_Store
+Thumbs.db

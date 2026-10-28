@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Word Chomp tile">
+  <defs>
+    <linearGradient id="tileGold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe066" />
+      <stop offset="1" stop-color="#ffc72e" />
+    </linearGradient>
+    <linearGradient id="leafGreen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9be76b" />
+      <stop offset="1" stop-color="#5aa83f" />
+    </linearGradient>
+  </defs>
+  <rect x="5" y="8" width="54" height="54" rx="13" fill="#5a3319" opacity=".22" />
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#tileGold)" stroke="#5a3319" stroke-width="4" />
+  <path d="M13 12c8-5 21-6 30-3" fill="none" stroke="#fff7cc" stroke-width="3" stroke-linecap="round" opacity=".65" />
+  <path d="M18 23 24 45 32 32 40 45 46 23" fill="none" stroke="#5a3319" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M45 17c3-6 9-9 13-7-1 6-6 10-13 7Z" fill="url(#leafGreen)" stroke="#2f6b25" stroke-width="2" stroke-linejoin="round" />
+  <path d="M44 19c4-2 7-4 11-6" fill="none" stroke="#2f6b25" stroke-width="1.6" stroke-linecap="round" />
+</svg>
